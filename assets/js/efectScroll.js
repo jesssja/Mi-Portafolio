@@ -56,7 +56,7 @@ ScrollReveal().reveal('.contacto-container', {
     distance: '500px',
     duration: 2000,
     easing: 'ease-in-out',
-    reset: false,
+    reset: true,
 });
 
 ScrollReveal().reveal('.iconos-contacto', {
